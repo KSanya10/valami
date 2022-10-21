@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(175, 171, 171);
+    background-attachment: fixed;
+}
+
+.molli {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(0, 0, 0, 0.9);
+    text-shadow: 2px 2px 12px rgb(255, 255, 255);
+}
+
+.logo {
+
+    font-family: 'Licorice', cursive;
+    color: rgba(0, 0, 0, 0.9);
+    text-shadow: 2px 2px 12px rgb(255, 255, 255);
+}
+
+#navbarNavDropdown {
+    width: 66%;
+
+
+}
+
+.fokepek {}
+
+.portreKepek {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-start;
+
+}
+
+.bemutatkozoszoveg {
+    width: 750px;
+    font-size: 0.6cm;
+    font-weight: lighter;
+    color: rgb(0, 0, 0, 0.75);
+    text-indent: 50px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lapteteje {
+    text-decoration: none;
+    font-size: 0.5cm;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.6);
+    text-decoration: underline black;
+    text-align: center;
+
+}
